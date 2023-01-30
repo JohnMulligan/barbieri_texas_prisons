@@ -1,0 +1,6 @@
+venv/
+localsettings.py
+.DS_Store
+*.db
+*.sql
+*.sqlite3
